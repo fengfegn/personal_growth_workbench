@@ -1,7 +1,8 @@
 # Personal Growth Workbench
 
 一个面向 Windows 桌面的离线优先个人成长管理工作台：把任务、目标、课程安排、日历、习惯、学习修炼和随手记录集中在一个本地应用中，并通过可选的外部 API 获取 AI 新闻简报。
-
+跳转至Release页面安装personal_growth_workbench.exe文件，双击进行安装即可快速使用，链接如下：
+https://github.com/fengfegn/personal_growth_workbench/releases
 ## ✨ Features
 
 - **工作台首页**：聚合今日任务、最多三项今日重点、目标进度和最近的重要日子。

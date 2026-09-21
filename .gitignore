@@ -1,0 +1,54 @@
+*.log
+*.pyc
+*.swp
+.DS_Store
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+.dart_tool/
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+/coverage/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Local Flutter SDK and generated platform state
+/.tooling/
+**/flutter/ephemeral/
+
+# Logs and temporary files
+preview*.log
+*.stderr.log
+*.stdout.log
+*.tmp
+*.temp
+*.bak
+__pycache__/
+
+# OS
+Thumbs.db
+desktop.ini
+
+# Local project documentation
+/project_docs/
+
+/scripts/
+
+/scripts/
